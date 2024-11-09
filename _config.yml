@@ -1,0 +1,6 @@
+title: My Jekyll Site
+description: >- # this means to treat the following as a multiline string
+  Welcome to my Jekyll site hosted on GitHub Pages!
+baseurl: "" # For user pages, leave it empty; for project pages, use "/yourrepositoryname"
+url: "https://yourusername.github.io" # the base hostname and protocol for your site
+theme: jekyll-theme-cayman # or any other Jekyll theme
